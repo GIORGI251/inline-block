@@ -1,0 +1,39 @@
+div {
+    display: inline-block;
+}
+#box1 {
+    width:100px ;
+    height:150px ;
+    background-color:red ;
+}
+
+#box2 {
+    width:100px ;
+    height:150px ;
+    background-color:#FAFF00
+}
+
+#box3 {
+    width:100px ;
+    height:150px ;
+    background-color:#05FF00
+}
+
+#box4 {
+    width:100px ;
+    height:150px ;
+    background-color:#0500FF
+}
+
+#box5 {
+    width:100px ;
+    height:150px ;
+    background-color:#FA00FF
+}
+
+#box6 {
+    width:100px ;
+    height:150px ;
+    background-color:#00FFF0
+}
+
